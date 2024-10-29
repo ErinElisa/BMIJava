@@ -5,8 +5,8 @@ BMI adalah indikator yang umum digunakan untuk menilai apakah seseorang memiliki
 **Fitur**  
 Penghitungan BMI: Menghitung nilai BMI berdasarkan input berat (kg) dan tinggi (m).  
 Kategorisasi BMI: Menyediakan kategori berdasarkan nilai BMI (Kekurangan berat badan, Normal, Kelebihan berat badan, Obesitas).  
-Antarmuka pengguna yang sederhana: Mudah digunakan dengan antarmuka yang intuitif.  
-Cara Menggunakan  
+
+**Cara Menggunakan**  
 Input Data: Masukkan berat badan dalam kilogram (kg) dan tinggi badan dalam meter (m).  
 Lihat Kategori: Hasil akan menampilkan nilai BMI dan kategori kesehatan yang sesuai.  
 
